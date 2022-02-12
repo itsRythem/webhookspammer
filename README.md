@@ -1,2 +1,3 @@
 # webhookspammer
 Open Source java webhook spammer
+made this in 10 minutes fucking around with friends, this isnt a good example of my code...
